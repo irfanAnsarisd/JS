@@ -1,0 +1,18 @@
+// how does javascript code execute
+
+// 1.Global execution 
+ 
+//  => this 
+
+// 2.Memory phase
+
+// val1, val2, val3...(undefined)
+// functionnn (definition)
+
+
+// 3.Execution phase
+
+// val assigning like this val = 10, val2 = 20
+
+// for function (new variable environment + execution thread)
+
